@@ -1,0 +1,13 @@
+203.124.44.78 unknown - [17/Jun/2013:22:53:58 -0500]
+"GET /bgs/greenbg.gif HTTP 1.0" 200 50
+74.6.143.26 unknown - [17/Jun/2013:22:53:58 -0500] "GET /bgs/greenbg.gif HTTP 1.0" 200 50
+104.106.109.5 unknown - [17/Jun/2013:19:53:58 -0500] "GET /bgs/green.gif HTTP 1.0" 404 0
+212.58.249.206 unknown - [17/Jun/2013:20:53:58 -0500] "GET /bgs/greenbg.gif HTTP 1.0" 500 50
+212.58.244.129 unknown - [17/Jun/2013:22:53:58 -0500]
+"GET /bgs/greenbg.gif HTTP 1.0" 200 50
+8.8.8.8 unknown - [17/Jun/2013:22:53:58 -0500]
+"GET /bgs/greenbg.gif HTTP 1.0" 200 50
+52.204.110.212 unknown - [17/Jun/2013:22:53:58 -0500]
+"GET /bgs/greenbg.gif HTTP 1.0" 500 10
+23.57.85.110 unknown - [17/Jun/2013:17:53:58 -0500]
+"GET /bgs/bg.jpg HTTP 1.0" 500 10
